@@ -1,6 +1,4 @@
 # testing
-hamada
-
 
 ### TESTING IS NOW IN PROCESS
  ## THIS SHOULD BE PICKED
